@@ -112,3 +112,20 @@ More data is needed to obtain a better functioning model, either through scrapin
    - Visualization with Tableau and Matplotlib.
    - Neural Network Implementation: Keras and tensorflow.
    - Google Cloud and Cloud Storage for processing and data storage.
+
+## Communication:
+
+![NN architecture vis](images/output.png)
+
+----
+![NN loss vis](images/mobilenet_loss.png)
+
+----
+![NN accuracy vis](images/mobilenet_accuracy.png)
+
+----
+Mobilenet Confusion matrrix for Modern Style Class
+
+![NN architecture vis](images/mobilenet_cm.png)
+
+
